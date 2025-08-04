@@ -1,0 +1,12 @@
+2025-08-04 18:57:31,090 - INFO - Starting cpu usage monitoring... 
+2025-08-04 18:57:32,091 - WARNING - Alert ! CPU usage exceeds threshold: 14.8%
+2025-08-04 18:57:33,093 - WARNING - Alert ! CPU usage exceeds threshold: 22.0%
+2025-08-04 18:57:34,094 - WARNING - Alert ! CPU usage exceeds threshold: 7.2%
+2025-08-04 18:57:35,096 - WARNING - Alert ! CPU usage exceeds threshold: 6.8%
+2025-08-04 18:57:36,097 - WARNING - Alert ! CPU usage exceeds threshold: 15.7%
+2025-08-04 18:57:37,100 - WARNING - Alert ! CPU usage exceeds threshold: 1.9%
+2025-08-04 18:57:38,101 - WARNING - Alert ! CPU usage exceeds threshold: 13.2%
+2025-08-04 18:57:39,103 - WARNING - Alert ! CPU usage exceeds threshold: 1.8%
+2025-08-04 18:57:40,105 - WARNING - Alert ! CPU usage exceeds threshold: 11.2%
+2025-08-04 18:57:41,109 - WARNING - Alert ! CPU usage exceeds threshold: 8.2%
+2025-08-04 18:57:41,671 - INFO - Monitoring interrupted by user. Exiting gracefully.
