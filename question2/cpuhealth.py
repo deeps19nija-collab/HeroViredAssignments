@@ -6,7 +6,7 @@ import time
 
 #--------------Configuration--------------------------------
 
-CPU_USAGE_THRESHOLD = 1 # Threshold for alert in percentage
+CPU_USAGE_THRESHOLD = 5 # Threshold for alert in percentage
 CHECK_INTERVAL = 1       # Time (in seconds) between each check
 
 logging.basicConfig(
@@ -14,7 +14,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.StreamHandler(sys.stdout),                  # Output to console
-        logging.FileHandler("question2/cpu_monitor.log", mode='a')    # Log alerts to file
+        logging.FileHandler("cpu_monitor.log", mode='a')    # Log alerts to file
     ]
 )
 #-----------------------Core Function ------------------------
